@@ -1,0 +1,20 @@
+True
+False
+False
+True
+True
+True
+True False   False and False = False
+True
+False
+False
+True
+False
+True
+False
+False
+False
+True
+True
+False
+False

@@ -32,6 +32,16 @@ def attempt2(words, punctuation):
 
 print words_of_sentence(sentence)
 print put_back_together(words_of_sentence(sentence))
-print "You failed, try again."
+print "Attempt2"
 values = words_of_sentence(sentence)
 print attempt2(*values)
+print values
+
+
+
+rally_tasks
+LICENSE
+README.rst
+disruptor.py
+requirements.txt	
+test_disruptor.py
